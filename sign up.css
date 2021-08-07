@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: #a59ae1;
+}
+.signUp{
+    background: #9382f2;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    width: 522px;
+    display: block;
+    text-align: left;
+    margin-left: 385px;
+    margin-top: 27px;
+    border: 1px solid #7a67e5c2;
+    border-radius: 3px;
+}
+input[type="text"] {
+    width: 174px;
+    padding: 11px;
+    margin: 23px 10px;
+    border: 1px solid #4d4d4d;
+    border-radius: 3px;
+}
+
+.snContent {
+    padding: 10px;
+    margin: 27px;
+    background: #9382f2;
+    width: 85%;
+    height: 446px;
+    border: 1px solid #9382f2;
+    border-radius: 3px;
+}
+
+input[type="email"] {
+    width: 399px;
+    padding: 10px 10px;
+    margin: 15px 10px;
+}
+
+input[type="password"] {
+    width: 401px;
+    padding: 10px;
+    margin: 15px 10px;
+}
+
+span {
+    width: 364px;
+    padding: 5px 5px;
+    margin: 6px;
+}
+
+h1 {
+    padding: 5px;
+    margin: 5px;
+}
+a {
+    color: #3212e3;
+    text-decoration: none;
+} 
+.button {
+    margin: 29px 0px;
+    padding: 10px;
+    width: 184px;
+}
+.button a {
+    margin: 4px;
+    padding: 13px 27px;
+    background: #3d1dec;
+    color: white;
+    margin-top: 31px;
+    letter-spacing: 0.55px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid #2700ff;
+    border-radius: 6px;
+}
+
